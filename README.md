@@ -1,8 +1,8 @@
-# Full Stack Developers Taiwan
+# Startup Jobs Taiwan
 
 ## Open Sourced Homepage
 
-The live hompepage of Full Stack Developers Taiwan can be viewed here:
+The live hompepage of Startup Jobs Taiwan can be viewed here:
 
 [https://021tw.github.io/021tw.github.io/](https://021tw.github.io/021tw.github.io/)
 
