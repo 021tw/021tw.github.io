@@ -67,8 +67,8 @@ Only companies that satisfy the following conditions can post in **Startup Jobs 
 
 | Name | Description |
 | --- | --- |
-| [AppWorks](https://appworks.tw/) | Accelerator, Incubator, Coding Camp, Venture |
-| [Taiwan Startup Stadium](https://www.startupstadium.tw)| Accelerator, Incuabtor |
+| [AppWorks](https://appworks.tw/) | Accelerator |
+| [Taiwan Startup Stadium](https://www.startupstadium.tw)| Accelerator |
 | [Startup Circle](http://startup-circle.com.tw/) | Community |
 | [Taiwan Startup Institute](https://www.tsi.center/) | Accelerator |
 
