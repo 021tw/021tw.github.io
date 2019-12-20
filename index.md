@@ -15,14 +15,16 @@ description: 台灣新創工作
 ## Motivation
 
 * **Difficult to find a Silicon Valley-style startup to work at in Taiwan.**
-  * 
-* **Hard to hire Full Stack in Taiwan.** 
-  * It is extremely hard to hire Full Stack Developers in Taiwan.
-  * Most developers either focus on the front or back-end, and have little opportunity to learn beyond their narrow scope.
+  * Taiwan has a lot of startups that are more like SMEs. 
+  * It's usually not very fun or Silicon Valley-like to work at these places.
+* **Hard to hire good engineers who want to work at startups in Taiwan.**
+  * Because the quality of startups in Taiwan is not very high, most quality engineers don't want to work at startups.
+  * The best engineers in Taiwan wish to work at a large enterprise, that can pay higher and offer more job security.
+  * This is reversed in the US and in the valley.
 
 ## Mission
 
-* Help front-end and back-end developers transition to a full stack role.
+* Help engineers, designers, product managers, and inspiring-entrepreneur find **quality, Silicon Valley** startups in Taiwan.
 * Discuss and understand synergies between front-end and back-end frameworks.
 
 ## Community Ownership
@@ -32,10 +34,13 @@ description: 台灣新創工作
 
 ## Moderation Rules
 
-* Any company can post.
-* Jobs must be **Full Stack Developer.**
-  * Cannot be Front-End, Back-End, or Mobile Developer.
-* Job posts must have salary information.
+* Company cannot be in operations for more than 5 years.
+* Company cannot have more than 50 people.
+* Company must be a quality Silicon Valley style startup.
+* Company cannot be in or affliate of the following industries:
+  * Dev Shop or Contractor
+  * Online Gambling
+  * Porn
 
 ## Contributors
 
