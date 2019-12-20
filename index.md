@@ -33,8 +33,8 @@ description: 台灣新創工作
 
 ## Community Ownership
 
-* **Full Stack Developers Taiwan** is not the property of any individual or company.
-* The open source community owns this full stack community.
+* **Startup Jobs Taiwan** is not the property of any individual, company, incubator, or venture.
+* The startup community in Taiwan owns this startup community.
 
 ## Moderation Rules
 
