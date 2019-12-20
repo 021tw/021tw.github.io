@@ -4,7 +4,7 @@ title: Startup Jobs Taiwan
 description: 台灣新創工作
 ---
 
-## Properties
+## Communities
 
 * **Startup Jobs Taiwan Facebook Group**
 * **Startup Jobs Taiwan LinkedIn Group**
@@ -32,7 +32,7 @@ description: 台灣新創工作
 * Find hungry people who want to join a small rocket ship.
 * Build out an open sourced solution that is **free forever** for startup job seeking and hiring.
 
-## Community Ownership
+## Ownership
 
 * **Startup Jobs Taiwan** is not the property of any individual, company, incubator, or venture.
 * The startup community in Taiwan owns this startup community.
