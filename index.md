@@ -56,7 +56,7 @@ Only companies that satisfy the following conditions can post in **Startup Jobs 
 
 | GitHub User | Join Date | URL | Contact |
 | --- | --- | --- | --- |
-| [`avancevl`](https://github.com/avancevl) | Dec, 2019 | [`zh.avancevl.com`](https://zh.avancevl.com) | [`hr@avancevl.com`](mailto:hr@avancevl.com) |
+| [`avancevl`](https://github.com/avancevl){:target="_blank"} | Dec, 2019 | [`zh.avancevl.com`](https://zh.avancevl.com){:target="_blank"} | [`hr@avancevl.com`](mailto:hr@avancevl.com) |
 
 ### Apply to be a Moderator
 
@@ -73,16 +73,16 @@ We welcome and highly encourage anyone passionate about startups in Taiwan to co
 
 | Name | Description |
 | --- | --- |
-| [AppWorks](https://appworks.tw/) | Accelerator |
-| [Taiwan Startup Stadium](https://www.startupstadium.tw)| Accelerator |
-| [Startup Circle](http://startup-circle.com.tw/) | Community |
-| [Taiwan Startup Institute](https://www.tsi.center/) | Accelerator |
+| [AppWorks](https://appworks.tw/){:target="_blank"} | Accelerator |
+| [Taiwan Startup Stadium](https://www.startupstadium.tw){:target="_blank"} | Accelerator |
+| [Startup Circle](http://startup-circle.com.tw/){:target="_blank"} | Community |
+| [Taiwan Startup Institute](https://www.tsi.center/){:target="_blank"} | Accelerator |
 
 ## Startup Jobs Abroad
 
 | Name | Description |
 | --- | --- |
-| [Work At A Startup](https://www.workatastartup.com/) | Work at a Y Combinator startup |
+| [Work At A Startup](https://www.workatastartup.com/){:target="_blank"} | Work at a Y Combinator startup |
 
 
 <br>
