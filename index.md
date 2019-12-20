@@ -46,7 +46,7 @@ Only companies that satisfy the following conditions can post in **Startup Jobs 
 * Cannot have more than 50 people.
 * Must be a quality Silicon Valley style startup.
 * Cannot be in or affliate of the following industries:
-  * Dev Shop or Contractor
+  * Dev Shop or Contract Outsourcing Firm
   * Online Gambling
   * Porn
 * Foreign or remote job posts allowed.
