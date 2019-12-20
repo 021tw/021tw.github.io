@@ -6,8 +6,8 @@ description: 台灣新創工作
 
 ## Properties
 
-* ** Startup Jobs Taiwan Facebook Group**
-* ** Startup Jobs Taiwan LinkedIn Group**
+* **Startup Jobs Taiwan Facebook Group**
+* **Startup Jobs Taiwan LinkedIn Group**
 * **012tw GitHub Team**
   * `jobs` issues board for startup job opportunities in Taiwan
   * `021tw.github.io` GitHub Jekyll HomePage
