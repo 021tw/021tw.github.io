@@ -44,12 +44,13 @@ Only companies that satisfy the following conditions can post in **Startup Jobs 
 * Cannot be in operations for more than 5 years.
   * Is this company really a startup after more than 5 years?
 * Cannot have more than 50 people.
-* Must be a quality Silicon Valley style startup.
 * Cannot be in or affliate of the following industries:
   * Dev Shop or Contract Outsourcing Firm
   * Online Gambling
   * Porn
 * Foreign or remote job posts allowed.
+* Must be a quality Silicon Valley style startup.
+  * No manual labor type of jobs.
 
 ### Moderators
 
@@ -62,10 +63,14 @@ Only companies that satisfy the following conditions can post in **Startup Jobs 
 [Apply](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
 
 
-## Other Startup Communities
+## Other Startup Communities in Taiwan
 
-* **AppWorks**
-
+| Name | Description |
+| --- | --- |
+| [AppWorks](https://appworks.tw/) | Accelerator, Incubator, Coding Camp, Venture |
+| [Taiwan Startup Stadium](https://www.startupstadium.tw)| Accelerator, Incuabtor |
+| [Startup Circle](http://startup-circle.com.tw/) | Community |
+| [Taiwan Startup Institute](https://www.tsi.center/) | Accelerator |
 
 <br>
 
