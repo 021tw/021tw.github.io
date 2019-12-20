@@ -60,6 +60,12 @@ Only companies that satisfy the following conditions can post in **Startup Jobs 
 
 ### Apply to be a Moderator
 
+We welcome and highly encourage anyone passionate about startups in Taiwan to contribute. Please list the following in your email application:
+
+* Your GitHub or GitLab profile
+* Your affliated company, if any
+* Reason for wanting to contribute
+
 [Apply](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
 
 
