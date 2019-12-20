@@ -17,6 +17,7 @@ description: 台灣新創工作
 * **Difficult to find a Silicon Valley-style startup to work at in Taiwan.**
   * Taiwan has a lot of startups that are more like SMEs. 
   * It's usually not very fun or Silicon Valley-like to work at these places.
+  * A lot of well-paying startup jobs tend to be in legally gray areas, like online gambling and porn.
 * **Hard to hire good engineers who want to work at startups in Taiwan.**
   * Because the quality of startups in Taiwan is not very high, most quality engineers don't want to work at startups.
   * The best engineers in Taiwan wish to work at a large enterprise, that can pay higher and offer more job security.
