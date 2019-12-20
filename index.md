@@ -39,14 +39,17 @@ description: 台灣新創工作
 
 ## Moderation Rules
 
-* Company cannot be in operations for more than 5 years.
+Only companies that satisfy the following conditions can post in **Startup Jobs Taiwan** community.
+
+* Cannot be in operations for more than 5 years.
   * Is this company really a startup after more than 5 years?
-* Company cannot have more than 50 people.
-* Company must be a quality Silicon Valley style startup.
-* Company cannot be in or affliate of the following industries:
+* Cannot have more than 50 people.
+* Must be a quality Silicon Valley style startup.
+* Cannot be in or affliate of the following industries:
   * Dev Shop or Contractor
   * Online Gambling
   * Porn
+* Foreign or remote job posts allowed.
 
 ### Moderators
 
