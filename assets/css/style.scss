@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+.body {
+	background-color: #f6f6ef;
+}
 .page-header {
 	background-color: #f26522;
 	background-image: none;
