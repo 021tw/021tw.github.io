@@ -35,7 +35,7 @@ description: 台灣新創工作
 ## Ownership
 
 * **Startup Jobs Taiwan** is not the property of any individual, company, incubator, or venture.
-* The startup community in Taiwan owns this startup community.
+* _The startup community in Taiwan owns this startup community._
 
 ## Moderation Rules
 
