@@ -29,7 +29,7 @@ description: 台灣新創工作
 ## Mission
 
 * Help engineers, designers, product managers, and inspiring-entrepreneur find **quality, Silicon Valley** startups in Taiwan.
-* Discuss and understand synergies between front-end and back-end frameworks.
+* Find hungry people who want to join a small rocket ship.
 * Build out an open sourced solution that is **free forever** for startup job seeking and hiring.
 
 ## Community Ownership
@@ -40,6 +40,7 @@ description: 台灣新創工作
 ## Moderation Rules
 
 * Company cannot be in operations for more than 5 years.
+  * Is this company really a startup after more than 5 years?
 * Company cannot have more than 50 people.
 * Company must be a quality Silicon Valley style startup.
 * Company cannot be in or affliate of the following industries:
@@ -55,7 +56,7 @@ description: 台灣新創工作
 [Apply](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
 
 
-## Other Resources
+## Other Startup Communities
 
 * **AppWorks**
 
