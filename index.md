@@ -21,11 +21,15 @@ description: 台灣新創工作
   * Because the quality of startups in Taiwan is not very high, most quality engineers don't want to work at startups.
   * The best engineers in Taiwan wish to work at a large enterprise, that can pay higher and offer more job security.
   * This is reversed in the US and in the valley.
+* **No job seeking / hiring solution that is completely free.**
+  * Currently free solutions and network can easily be not free in the future.
+  * Only an open sourced solution can be truly free forever.
 
 ## Mission
 
 * Help engineers, designers, product managers, and inspiring-entrepreneur find **quality, Silicon Valley** startups in Taiwan.
 * Discuss and understand synergies between front-end and back-end frameworks.
+* Build out an open sourced solution that is **free forever** for startup job seeking and hiring.
 
 ## Community Ownership
 
