@@ -72,6 +72,13 @@ Only companies that satisfy the following conditions can post in **Startup Jobs 
 | [Startup Circle](http://startup-circle.com.tw/) | Community |
 | [Taiwan Startup Institute](https://www.tsi.center/) | Accelerator |
 
+## Startup Jobs Abroad
+
+| Name | Description |
+| --- | --- |
+| [Work At A Startup](https://www.workatastartup.com/) | Work at a Y Combinator startup |
+
+
 <br>
 
 ---
