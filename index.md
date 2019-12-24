@@ -4,14 +4,6 @@ title: Startup Jobs Taiwan
 description: 台灣新創工作
 ---
 
-## Communities
-
-| Site | For Developers | For Companies |
-| --- | --- | --- |
-| [Facebook Group](https://www.facebook.com/groups/021tw){:target="_blank"} | | |
-| [LinkedIn Group](https://www.linkedin.com/groups/10506982/){:target="_blank"} | [Follow](https://www.linkedin.com/groups/10506982/){:target="_blank"} | [Post](https://www.linkedin.com/groups/10506982/){:target="_blank"} |
-| [GitHub Issues Job Board](https://github.com/021tw/jobs/issues){:target="_blank"} | [View Jobs](https://github.com/021tw/jobs/issues){:target="_blank"} | [Post Job](https://github.com/021tw/jobs/issues/new){:target="_blank"} |
-
 ## Motivation
 
 * **Difficult to find a Silicon Valley-style startup to work at in Taiwan.**
