@@ -84,6 +84,11 @@ description: 台灣新創工作機會社團
 | --- | --- |
 | [Work At A Startup](https://www.workatastartup.com/){:target="_blank"} | Work at a Y Combinator startup |
 
+## 關係社團
+
+| 名稱 | 纖細內容 |
+| --- | --- |
+| [Full Stack Developers Taiwan](https://stacktw.github.io/){:target="_blank"} | 台灣全端工程師社團 |
 
 <br>
 
@@ -165,6 +170,11 @@ We welcome and highly encourage anyone passionate about startups in Taiwan to co
 | --- | --- |
 | [Work At A Startup](https://www.workatastartup.com/){:target="_blank"} | Work at a Y Combinator startup |
 
+## Related Groups
+
+| Name | Description |
+| --- | --- |
+| [Full Stack Developers Taiwan](https://stacktw.github.io/){:target="_blank"} | Group for Full Stack Developers in Taiwan |
 
 <br>
 
